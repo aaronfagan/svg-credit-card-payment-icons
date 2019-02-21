@@ -6,8 +6,5 @@ A collection of SVG based credit card logo icons.
 ## Instructions
 [See blog article.](https://www.aaronfagan.ca/blog/2017/svg-credit-card-payment-icons-6-styles-80-icons/)
 
-## Authors
-- Aaron Fagan - [www.aaronfagan.ca](https://www.aaronfagan.ca/)
-
-# License
-This project is licensed under the [GNU General Public License](LICENSE).
+# Contributors
+* Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
