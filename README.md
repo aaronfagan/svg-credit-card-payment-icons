@@ -19,8 +19,8 @@ A collection of SVG based credit card logo icons.
 |PayPal				|![PayPal](flat/paypal.svg)			|![PayPal](flat-rounded/paypal.svg)			|![PayPal](logo/paypal.svg)			|![PayPal](logo-border/paypal.svg)			|![PayPal](mono/paypal.svg)			|![PayPal](mono-outline/paypal.svg)	|
 |UnionPay			|![UnionPay](flat/unionpay.svg)		|![UnionPay](flat-rounded/unionpay.svg)		|![UnionPay](logo/unionpay.svg)		|![UnionPay](logo-border/unionpay.svg)		|![UnionPay](mono/unionpay.svg)		|![UnionPay](mono-outline/unionpay.svg)	|
 |Visa				|![Visa](flat/visa.svg)				|![UnionPay](flat-rounded/visa.svg)			|![UnionPay](logo/visa.svg)			|![UnionPay](logo-border/visa.svg)			|![UnionPay](mono/visa.svg)			|![UnionPay](mono-outline/visa.svg)	|
-|Generic Card		|![Generic Card](flat/generic.svg)	|![Visa](flat-rounded/generic.svg)			|![Visa](logo/generic.svg)			|![Visa](logo-border/generic.svg)			|![Visa](mono/generic.svg)			|![Visa](mono-outline/generic.svg)	|
-|Security Code		|![Security Code](flat/code.svg)	|![Security Code](flat-rounded/code.svg)	|![Security Code](logo/code.svg)	|![Security Code](logo-border/code.svg)		|![Security Code](mono/code.svg)	|![Security Code](mono-outline/code.svg)|
+|Generic Card		|![Generic Card](flat/generic.svg)	|![Visa](flat-rounded/generic.svg)			|N/A								|N/A										|![Visa](mono/generic.svg)			|![Visa](mono-outline/generic.svg)	|
+|Security Code		|![Security Code](flat/code.svg)	|![Security Code](flat-rounded/code.svg)	|N/A								|N/A										|![Security Code](mono/code.svg)	|![Security Code](mono-outline/code.svg)|
 
 # Contributors
 * Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
