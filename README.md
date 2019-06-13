@@ -5,7 +5,7 @@ A collection of SVG based credit card logo icons.
 [See blog article.](https://www.aaronfagan.ca/blog/2017/svg-credit-card-payment-icons-6-styles-80-icons/)
 
 ## Demo
-|Name				|Flat								|Flat Rounded								|Logo								|Logo Border								|Mono								|Mono Outline								|
+|					|Flat								|Flat Rounded								|Logo								|Logo Border								|Mono								|Mono Outline								|
 |---				|---								|---										|---								|---										|---								|---										|
 |Alipay				|![Alipay](flat/alipay.svg)			|![Alipay](flat-rounded/alipay.svg)			|![Alipay](logo/alipay.svg)			|![Alipay](logo-border/alipay.svg)			|![Alipay](mono/alipay.svg)			|![Alipay](mono-outline/alipay.svg)			|
 |American Express	|![American Express](flat/amex.svg)	|![American Express](flat-rounded/amex.svg)	|![American Express](logo/amex.svg)	|![American Express](logo-border/amex.svg)	|![American Express](mono/amex.svg)	|![American Express](mono-outline/amex.svg)	|
