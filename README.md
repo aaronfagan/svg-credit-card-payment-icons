@@ -23,4 +23,4 @@ A collection of SVG based credit card logo icons.
 |Security Code		|![Security Code](flat/code.svg)	|![Security Code](flat-rounded/code.svg)	|N/A								|N/A										|![Security Code](mono/code.svg)	|![Security Code](mono-outline/code.svg)|
 
 # Contributors
-* Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
+* Aaron Fagan - [GitHub](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
