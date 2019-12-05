@@ -1,0 +1,21 @@
+repository:
+  name: _NAME_
+  description: null
+  homepage: null
+  default_branch: master
+  private: false
+  has_issues: true
+  has_wiki: false
+  has_downloads: false
+  has_projects: false
+  allow_squash_merge: true
+  allow_merge_commit: true
+  allow_rebase_merge: true
+
+labels:
+  - name: bug
+    color: CC0000
+  - name: feature
+    color: 336699
+  # - name: first-timers-only
+  #   oldname: Help Wanted # Include if renaming
