@@ -1,7 +1,7 @@
 repository:
   name: svg-credit-card-payment-icons
   description: "SVG Credit Card & Payment Icons: 6 Styles, 80 Icons"
-  homepage: "https://www.aaronfagan.ca/blog/2017/svg-credit-card-payment-icons-6-styles-80-icons/2"
+  homepage: "https://www.aaronfagan.ca/blog/2017/svg-credit-card-payment-icons-6-styles-80-icons/"
   default_branch: master
   private: false
   has_issues: true
