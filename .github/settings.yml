@@ -1,6 +1,6 @@
 repository:
   name: _NAME_
-  description: null
+  description: Docker image that provides dynamic DNS with Route 53.
   homepage: null
   default_branch: master
   private: false
