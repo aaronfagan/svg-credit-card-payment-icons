@@ -1,6 +1,11 @@
 # SVG Credit Card & Payment Icons: 6 Styles, 80 Icons
 A collection of SVG based credit card logo icons.
 
+# Seeking Contributors
+I am seeking nayone interested in contributing by way of managing, and creating new graphics based on [issues](https://github.com/aaronfagan/svg-credit-card-payment-icons/issues) that are occassionally coming in. Unfortunately, I just don't have the time personally. If you are interested in an active contributor role, please get in touch [here](https://www.aaronfagan.ca/contact/)
+
+Thanks!
+
 ## Instructions
 [See blog article.](https://www.aaronfagan.ca/blog/2017/svg-credit-card-payment-icons-6-styles-80-icons/)
 
