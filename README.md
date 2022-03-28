@@ -28,6 +28,7 @@ Thanks!
 |Visa				|![Visa](flat/visa.svg)				|![UnionPay](flat-rounded/visa.svg)			|![UnionPay](logo/visa.svg)			|![UnionPay](logo-border/visa.svg)			|![UnionPay](mono/visa.svg)			|![UnionPay](mono-outline/visa.svg)			|
 |Generic Card		|![Generic Card](flat/generic.svg)	|![Visa](flat-rounded/generic.svg)			|N/A								|N/A										|![Visa](mono/generic.svg)			|![Visa](mono-outline/generic.svg)			|
 |Security Code		|![Security Code](flat/code.svg)	|![Security Code](flat-rounded/code.svg)	|N/A								|N/A										|![Security Code](mono/code.svg)	|![Security Code](mono-outline/code.svg)	|
+|Security Front Code		|![Security Code](flat/frontcode.svg)	|![Security Code](flat-rounded/frontcode.svg)	|N/A								|N/A										|![Security Code](mono/frontcode.svg)	|![Security Code](mono-outline/frontcode.svg)	|
 
 # Contributors
 * Aaron Fagan - [GitHub](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
