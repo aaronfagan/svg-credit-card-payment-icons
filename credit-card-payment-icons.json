@@ -1,0 +1,155 @@
+[
+  {
+    "name": "alipay",
+    "flat": "flat/alipay.svg",
+    "flat_rounded": "flat-rounded/alipay.svg",
+    "logo": "logo/alipay.svg",
+    "logo_border": "logo-border/alipay.svg",
+    "mono": "mono/alipay.svg",
+    "mono_outline": "mono-outline/alipay.svg"
+  },
+  {
+    "name": "amex",
+    "flat": "flat/amex.svg",
+    "flat_rounded": "flat-rounded/amex.svg",
+    "logo": "logo/amex.svg",
+    "logo_border": "logo-border/amex.svg",
+    "mono": "mono/amex.svg",
+    "mono_outline": "mono-outline/amex.svg"
+  },
+  {
+    "name": "diners",
+    "flat": "flat/diners.svg",
+    "flat_rounded": "flat-rounded/diners.svg",
+    "logo": "logo/diners.svg",
+    "logo_border": "logo-border/diners.svg",
+    "mono": "mono/diners.svg",
+    "mono_outline": "mono-outline/diners.svg"
+  },
+  {
+    "name": "discover",
+    "flat": "flat/discover.svg",
+    "flat_rounded": "flat-rounded/discover.svg",
+    "logo": "logo/discover.svg",
+    "logo_border": "logo-border/discover.svg",
+    "mono": "mono/discover.svg",
+    "mono_outline": "mono-outline/discover.svg"
+  },
+  {
+    "name": "elo",
+    "flat": "flat/elo.svg",
+    "flat_rounded": "flat-rounded/elo.svg",
+    "logo": "logo/elo.svg",
+    "logo_border": "logo-border/elo.svg",
+    "mono": "mono/elo.svg",
+    "mono_outline": "mono-outline/elo.svg"
+  },
+  {
+    "name": "hiper",
+    "flat": "flat/hiper.svg",
+    "flat_rounded": "flat-rounded/hiper.svg",
+    "logo": "logo/hiper.svg",
+    "logo_border": "logo-border/hiper.svg",
+    "mono": "mono/hiper.svg",
+    "mono_outline": "mono-outline/hiper.svg"
+  },
+  {
+    "name": "hipercard",
+    "flat": "flat/hipercard.svg",
+    "flat_rounded": "flat-rounded/hipercard.svg",
+    "logo": "logo/hipercard.svg",
+    "logo_border": "logo-border/hipercard.svg",
+    "mono": "mono/hipercard.svg",
+    "mono_outline": "mono-outline/hipercard.svg"
+  },
+  {
+    "name": "jcb",
+    "flat": "flat/jcb.svg",
+    "flat_rounded": "flat-rounded/jcb.svg",
+    "logo": "logo/jcb.svg",
+    "logo_border": "logo-border/jcb.svg",
+    "mono": "mono/jcb.svg",
+    "mono_outline": "mono-outline/jcb.svg"
+  },
+  {
+    "name": "maestro",
+    "flat": "flat/maestro.svg",
+    "flat_rounded": "flat-rounded/maestro.svg",
+    "logo": "logo/maestro.svg",
+    "logo_border": "logo-border/maestro.svg",
+    "mono": "mono/maestro.svg",
+    "mono_outline": "mono-outline/maestro.svg"
+  },
+  {
+    "name": "mastercard",
+    "flat": "flat/mastercard.svg",
+    "flat_rounded": "flat-rounded/mastercard.svg",
+    "logo": "logo/mastercard.svg",
+    "logo_border": "logo-border/mastercard.svg",
+    "mono": "mono/mastercard.svg",
+    "mono_outline": "mono-outline/mastercard.svg"
+  },
+  {
+    "name": "mir",
+    "flat": "flat/mir.svg",
+    "flat_rounded": "flat-rounded/mir.svg",
+    "logo": "logo/mir.svg",
+    "logo_border": "logo-border/mir.svg",
+    "mono": "mono/mir.svg",
+    "mono_outline": "mono-outline/mir.svg"
+  },
+  {
+    "name": "paypal",
+    "flat": "flat/paypal.svg",
+    "flat_rounded": "flat-rounded/paypal.svg",
+    "logo": "logo/paypal.svg",
+    "logo_border": "logo-border/paypal.svg",
+    "mono": "mono/paypal.svg",
+    "mono_outline": "mono-outline/paypal.svg"
+  },
+  {
+    "name": "unionpay",
+    "flat": "flat/unionpay.svg",
+    "flat_rounded": "flat-rounded/unionpay.svg",
+    "logo": "logo/unionpay.svg",
+    "logo_border": "logo-border/unionpay.svg",
+    "mono": "mono/unionpay.svg",
+    "mono_outline": "mono-outline/unionpay.svg"
+  },
+  {
+    "name": "visa",
+    "flat": "flat/visa.svg",
+    "flat_rounded": "flat-rounded/visa.svg",
+    "logo": "logo/visa.svg",
+    "logo_border": "logo-border/visa.svg",
+    "mono": "mono/visa.svg",
+    "mono_outline": "mono-outline/visa.svg"
+  },
+  {
+    "name": "generic-card",
+    "flat": "flat/generic.svg",
+    "flat_rounded": "flat-rounded/generic.svg",
+    "logo": "logo/generic.svg",
+    "logo_border": "logo-border/generic.svg",
+    "mono": "mono/generic.svg",
+    "mono_outline": "mono-outline/generic.svg"
+  },
+  {
+    "name": "security-code",
+    "flat": "flat/code.svg",
+    "flat_rounded": "flat-rounded/code.svg",
+    "logo": "logo/code.svg",
+    "logo_border": "logo-border/code.svg",
+    "mono": "mono/code.svg",
+    "mono_outline": "mono-outline/code.svg"
+  },
+  {
+    "name": "security-code-front",
+    "flat": "flat/code-front.svg",
+    "flat_rounded": "flat-rounded/code-front.svg",
+    "logo": "logo/code-front.svg",
+    "logo_border": "logo-border/code-front.svg",
+    "mono": "mono/code-front.svg",
+    "mono_outline": "mono-outline/code-front.svg"
+  }
+]
