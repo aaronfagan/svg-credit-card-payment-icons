@@ -24,7 +24,7 @@ Note that the `build` alias generates a production release by default:
 $ npm run build
 ```
 
-To view a demo HTML page that displays that available icons:
+To view a demo HTML page that displays the available icons:
 
 ```shell
 $ npm run serve
