@@ -1,5 +1,5 @@
 {
-  "name": "svg-credit-card-icons",
+  "name": "svg-credit-card-payment-icons",
   "version": "0.1.0",
   "description": "SVG Credit Card & Payment Icons",
   "main": "src/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aaronfagan/svg-credit-card-icons.git"
+    "url": "git+https://github.com/aaronfagan/svg-credit-card-payment-icons.git"
   },
   "keywords": [
     "svg",
@@ -26,9 +26,9 @@
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/aaronfagan/svg-credit-card-icons/issues"
+    "url": "https://github.com/aaronfagan/svg-credit-card-payment-icons/issues"
   },
-  "homepage": "https://github.com/aaronfagan/svg-credit-card-icons#readme",
+  "homepage": "https://github.com/aaronfagan/svg-credit-card-payment-icons#readme",
   "devDependencies": {
     "css-loader": "7.1.2",
     "html-webpack-plugin": "5.6.0",
