@@ -1,6 +1,6 @@
 # SVG Credit Card & Payment Icons: 6 Styles, 80 Icons
 
-A collection of SVG based credit card logo icons. [Read the Blog Article](https://www.aaronfagan.ca/blog/2017/svg-credit-card-payment-icons-6-styles-80-icons/).
+A collection of SVG based credit card logo icons.
 
 ## Usage
 
@@ -28,6 +28,5 @@ Node Package instructions, coming soon!
 | Security Code         | ![Security Code](flat/code.svg)       | ![Security Code](flat-rounded/code.svg)       | ![Security Code](logo/code.svg)       | ![Security Code](logo-border/code.svg)       | ![Security Code](mono/code.svg)       | ![Security Code](mono-outline/code.svg)       |
 | Security Code - Front | ![Security Code](flat/code-front.svg) | ![Security Code](flat-rounded/code-front.svg) | ![Security Code](logo/code-front.svg) | ![Security Code](logo-border/code-front.svg) | ![Security Code](mono/code-front.svg) | ![Security Code](mono-outline/code-front.svg) |
 
-# Contributors
-
-- Aaron Fagan - [GitHub](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
+## Additional Information
+- [Blog Article](https://www.aaronfagan.ca/blog/2017/svg-credit-card-payment-icons-6-styles-80-icons/)
