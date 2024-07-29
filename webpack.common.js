@@ -1,10 +1,10 @@
+// webpack.common.js
+
 const path = require('path');
-const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: {
     'main': './src/index.js',
-    'demo': './src/demo.js',
   },
 
   module: {
@@ -19,12 +19,6 @@ module.exports = {
       },
     ]
   },
-
-  plugins: [
-    new HtmlWebpackPlugin({
-      title: 'SVG Credit Card Payment Icons',
-    }),
-  ],
 
   output: {
     path: path.resolve(__dirname, 'dist'),

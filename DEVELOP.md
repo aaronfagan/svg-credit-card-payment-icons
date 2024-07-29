@@ -27,7 +27,15 @@ $ npm run build
 To view a demo HTML page that displays the available icons:
 
 ```shell
-$ npm run serve
+$ npm run start
 ```
 
-Now you can visit the host web page at `localhost:8080`.
+Now you can visit the demo page at `localhost:8080` (it should open in your browser automatically).
+
+To run the unit tests:
+
+```shell
+$ npm run test
+```
+
+Now you can visit the test page at `localhost:8080` (it should open in your browser automatically).
