@@ -1,6 +1,6 @@
 {
   "name": "@aaronfagan/ccicons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SVG Credit Card & Payment Icons",
   "main": "src/index.js",
   "scripts": {
