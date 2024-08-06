@@ -1,6 +1,6 @@
 # SVG Credit Card & Payment Icons: 6 Styles, 80 Icons
 
-A collection of SVG based credit card logo and payment icons.
+A collection of SVG based credit card logo and payment icons. Now available as a [Node/NPM Package](https://github.com/aaronfagan/svg-credit-card-payment-icons/pkgs/npm/ccicons)!
 
 ## Usage
 Coming soon!
