@@ -2,6 +2,9 @@
 
 A collection of SVG based credit card logo and payment icons.
 
+## Usage
+Coming soon!
+
 ## Icons
 
 | Name                  | Flat                                                                                                       | Flat Rounded                                                                                                       | Logo                                                                                                       | Logo Border                                                                                                       | Mono                                                                                                       | Mono Outline                                                                                                       |
