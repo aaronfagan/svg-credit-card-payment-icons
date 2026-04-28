@@ -1,6 +1,9 @@
 # Mac folder attributes
 .DS_Store
 
+# Claude Code local state
+.claude
+
 # Logs
 logs
 *.log
